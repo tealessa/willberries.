@@ -125,8 +125,6 @@ span:hover {
     position: relative;
 }
 .button_shop::before{
-    content: "319$";
-    margin-right: 10px;
     width: 33px;
     height: 20px;
 }
